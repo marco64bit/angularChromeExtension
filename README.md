@@ -79,6 +79,7 @@ return $cs.$error(errorMessage) // for error callback
 </pre>
  
  <h4>content script code</h4>
+ to use your service's method you can call it simple but adding "._" after method name and ajax wrapper is happy! :)
  <pre>
 var service1 = service1Service();
 var service2 = service2Service();
@@ -96,3 +97,4 @@ service1.func2._({ad1:5, ad2:5}, success, error);
 service2.func1._({ad1:10, ad2:2}, success, error);
 service2.func1._({ad1:"wrong type string", ad2:2}, success, error);
  </pre>
+
