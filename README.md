@@ -1,6 +1,6 @@
 <h1>Ajax wrapper</h1>
 
-here you have an example of chrome extension application build with Yeoman generator with Ajax wrapper for services
+here you have an example of chrome extension application build with <a href="https://github.com/yeoman/generator-chrome-extension">Yeoman generator</a> with Ajax wrapper for services
 
 <h3>Try example</h3>
 
