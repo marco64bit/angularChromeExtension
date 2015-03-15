@@ -1,4 +1,8 @@
 <h1>Ajax wrapper</h1>
+<b>[WORK ONLY WITH SINCRONOUS CALL]</b>
+<a href="https://github.com/marco64bit/angularExtensionTemplate">
+	GO here for alternative and full implementation of it! =)
+</a>
 
 here you have an example of chrome extension application build with <a href="https://github.com/yeoman/generator-chrome-extension" target="_blank">Yeoman generator</a> with Ajax wrapper for services
 
